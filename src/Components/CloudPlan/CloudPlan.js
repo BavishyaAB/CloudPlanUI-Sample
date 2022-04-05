@@ -34,7 +34,6 @@ const useStyles = createUseStyles({
         justifyContent:"space-evenly"
     }
 })
-let order = null;
 function CloudPlan() {
     const classes = useStyles();
     return (
